@@ -1,4 +1,4 @@
-# 🌿 Smart Irrigation System
+# 🌿 Smart Irrigation AICTE Shell
 
 An AICTE Shell project Artificial Intelligence and Machine Learning to automate irrigation based on environmental sensor data.
 
